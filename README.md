@@ -13,3 +13,5 @@ Please install -
 5. npm install node-sass
 
 after run - npm start
+
+Note- i have include in build folder you can use.
